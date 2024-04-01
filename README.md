@@ -1,3 +1,6 @@
+## NAME :RAKSHITHA P
+## REGISTER NUMBER:212223220083
+
 #  Mean and variance of a discrete  distribution
 
 
